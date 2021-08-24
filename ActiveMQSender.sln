@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQSender", "ActiveMQSender\ActiveMQSender.csproj", "{9C7FA78B-3EA2-433F-837C-1CB746B76EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQReceiver", "ActiveMQReceiver\ActiveMQReceiver.csproj", "{8137E52D-3D5F-4836-B8A7-B8CE19D0477D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7FA78B-3EA2-433F-837C-1CB746B76EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7FA78B-3EA2-433F-837C-1CB746B76EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7FA78B-3EA2-433F-837C-1CB746B76EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7FA78B-3EA2-433F-837C-1CB746B76EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8137E52D-3D5F-4836-B8A7-B8CE19D0477D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8137E52D-3D5F-4836-B8A7-B8CE19D0477D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8137E52D-3D5F-4836-B8A7-B8CE19D0477D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8137E52D-3D5F-4836-B8A7-B8CE19D0477D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {904ED49A-B3BD-4B0E-AF9A-1D7E528E84DA}
+	EndGlobalSection
+EndGlobal
